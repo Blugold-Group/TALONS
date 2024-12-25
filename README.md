@@ -29,6 +29,8 @@ A set of tools to convert language into different forms, including
 
 The tools are meant to work together, passing inputs and outputs between each other to extend the capabilities of each one
 
+Named after Nyota Uhura, a communications officer in Star Trek
+
 ### Water Bottle
 
 A set of scripts which run basic file forensics tasks, including
@@ -37,6 +39,8 @@ A set of scripts which run basic file forensics tasks, including
 * Detection of embedded strings/files
 * Stenography
 * Pixel Value Differencing
+
+Named after the water bottle Ben Gates uses the uncover the seal of the Charlotte in the film National Treasure
 
 ## Experimental Tools
 
