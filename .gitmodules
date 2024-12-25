@@ -1,0 +1,9 @@
+[submodule "bletchley"]
+	path = bletchley
+	url = https://github.com/ThisIsNotANamepng/bletchley
+[submodule "uhura"]
+	path = uhura
+	url = https://github.com/ThisIsNotANamepng/uhura
+[submodule "waterbottle"]
+	path = waterbottle
+	url = https://github.com/ThisIsNotANamepng/waterbottle
