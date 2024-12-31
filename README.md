@@ -69,3 +69,8 @@ Setup instructions to come
 Switch to Linux
 
 ## Development
+
+Because this repo uses git submodules to track uhura, blethley, and waterbottle, development gets a little more complicated.
+
+To manage requirments.txt files, the setup.sh script creates a overall requirments.txt which provides the tools for all of the tools' requirments files. This doesn't happen on the repo level for various merge conflict issues. 
+
