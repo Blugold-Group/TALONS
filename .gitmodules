@@ -1,9 +1,9 @@
 [submodule "bletchley"]
 	path = bletchley
-	url = https://github.com/ThisIsNotANamepng/bletchley
+	url = https://github.com/Blugold-Group/bletchley
 [submodule "uhura"]
 	path = uhura
-	url = https://github.com/ThisIsNotANamepng/uhura
+	url = https://github.com/Blugold-Group/uhura
 [submodule "waterbottle"]
 	path = waterbottle
-	url = https://github.com/ThisIsNotANamepng/waterbottle
+	url = https://github.com/Blugold-Group/waterbottle
